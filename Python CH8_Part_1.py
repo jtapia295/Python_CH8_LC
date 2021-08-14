@@ -47,3 +47,5 @@ print(cargo_hold_list)
 
 #F
 print(f'The list Cargo Hold contains {len(cargo_hold_list)} items.')
+print('<---------------->')
+
